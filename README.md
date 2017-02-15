@@ -6,3 +6,4 @@
 4. Pro Git中提到的git diff, check the modified
 5. test core.editer = sublime, again
 6. test editer again.
+7. again and again
